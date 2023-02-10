@@ -11,3 +11,5 @@ $username = "root";
 $password = "password";
 
 $dbname = "DatabaseName";
+
+### 000Webhost watermark remover script included
